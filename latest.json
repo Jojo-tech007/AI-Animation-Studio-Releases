@@ -1,6 +1,6 @@
 {
-  "version": "0.8.0",
-  "url": "https://github.com/Jojo-tech007/AI-Animation-Studio-Releases/releases/download/v0.8.0/AIAnimationStudio-Setup-0.8.0.exe",
-  "sha256": "D22BE56A4B41759A8C425D4639CA48782B9A0756CE79B217FA73D8D5592F9E6C",
-  "notes": "V0.8.0：接入 GitHub 更新检查通道，支持版本比较、更新包下载与 SHA-256 校验。"
+  "version": "0.9.0",
+  "url": "https://github.com/Jojo-tech007/AI-Animation-Studio-Releases/releases/download/v0.9.0/AIAnimationStudio-Setup-0.9.0.exe",
+  "sha256": "77A64F02FF3ABF6AE9BCB1FF66E6C88701FA96455E0C8B01818FCFD9358DEFC3",
+  "notes": "V0.9.0：新增项目工作台、中文项目文件夹、项目重命名、剧本所属项目显示，并兼容旧版项目。"
 }
