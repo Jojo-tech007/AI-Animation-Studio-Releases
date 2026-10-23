@@ -1,6 +1,6 @@
 {
-  "version": "0.9.0",
-  "url": "https://github.com/Jojo-tech007/AI-Animation-Studio-Releases/releases/download/v0.9.0/AIAnimationStudio-Setup-0.9.0.exe",
-  "sha256": "77A64F02FF3ABF6AE9BCB1FF66E6C88701FA96455E0C8B01818FCFD9358DEFC3",
-  "notes": "V0.9.0：新增项目工作台、中文项目文件夹、项目重命名、剧本所属项目显示，并兼容旧版项目。"
+  "version": "1.0.0",
+  "url": "https://github.com/Jojo-tech007/AI-Animation-Studio-Releases/releases/download/v1.0.0/AIAnimationStudio-Setup-1.0.0.exe",
+  "sha256": "7B8B896FFF0A977A1ACDD4F0F0AED0A7EE176AC6635C883F6E0BFE3BA3CE4505",
+  "notes": "V1.0.0：新增 AI 编剧室、本地场景结构分析、DeepSeek 剧本对话、发送前预览与逐次授权，AI 建议不会自动修改剧本。"
 }
